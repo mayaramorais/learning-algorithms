@@ -1,0 +1,12 @@
+* A partir da notação Big O
+
+- Constante = O(1)
+- Logarítmica = O(log n)
+- Linear = O(n)
+- n.log n = O(n.log n)
+- Quadrática = O(n²)
+- Cúbica = O(n³)
+- Polinomial = O(n^k), onde k é MAIOR ou IGUAL a 4
+  - O(n^4)
+- Exponencial = O(k^n), onde k é MAIOR do que 1
+  - O(2^n)
