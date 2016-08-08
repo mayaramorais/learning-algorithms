@@ -3,6 +3,6 @@ from unittest import TestCase
 __author__ = 'mayaravaleria'
 
 
-class TestFatorial(TestCase):
-  def test_fatorial(self):
+class TestFactorial(TestCase):
+  def test_factorial(self):
     self.assertTrue(4)
